@@ -53,30 +53,6 @@ h1.title {
 
 }
 
-/*.score-container, .best-container {
-  position: relative;
-  display: inline-block;
-  background: #ffffff;
-  padding: 0px 20px 20px 0px;
-  font-size: 25px;
-  height: 25px;
-  line-height: 47px;
-  font-weight: bold;
-  color: black;
-  margin: 8px 50px 0px 0px; }
-  .score-container:after, .best-container:after {
-    position: absolute;
-    width: 100%;
-    top: -5px;
-    left: 0;
-    text-transform: uppercase;
-    font-size: 13px;
-    line-height: 13px;
-    color: black; }
-  .score-container .score-addition, .best-container .score-addition {
-    display:none; 
-  }*/
-
 .score-container, .best-container {
   position: relative;
   display: inline-block;
@@ -123,24 +99,6 @@ hr {
   width: 500px;
   margin: 0 auto; }
 
-@-webkit-keyframes fade-in {
-  0% {
-    opacity: 0; }
-
-  100% {
-    opacity: 1; } }
-@-moz-keyframes fade-in {
-  0% {
-    opacity: 0; }
-
-  100% {
-    opacity: 1; } }
-@keyframes fade-in {
-  0% {
-    opacity: 0; }
-
-  100% {
-    opacity: 1; } }
 .game-container {
   margin-top: 40px;
   position: relative;
